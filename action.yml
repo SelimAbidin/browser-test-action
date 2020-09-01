@@ -1,7 +1,5 @@
 name: 'Browser Test Action'
 description: 'Browser Testing for Karma'
-inputs:
-outputs:
 runs:
   using: 'docker'
   image: 'Dockerfile'
